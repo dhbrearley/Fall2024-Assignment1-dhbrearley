@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\cygwin\\CS330-PROJ1\\Fall2024-Assignment1-dhbrearley\\Fall2024-Assignment1-dhbrearley\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BBB87D-3510-4E88-BBB0-34015426B943}|Fall2024-Assignment1-dhbrearley\\Fall2024-Assignment1-dhbrearley.csproj|c:\\cygwin\\cs330-proj1\\fall2024-assignment1-dhbrearley\\fall2024-assignment1-dhbrearley\\fall2024-assignment1-dhbrearley\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A4BBB87D-3510-4E88-BBB0-34015426B943}|Fall2024-Assignment1-dhbrearley\\Fall2024-Assignment1-dhbrearley.csproj|solutionrelative:fall2024-assignment1-dhbrearley\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\cygwin\\CS330-PROJ1\\Fall2024-Assignment1-dhbrearley\\Fall2024-Assignment1-dhbrearley\\Fall2024-Assignment1-dhbrearley\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Fall2024-Assignment1-dhbrearley\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\cygwin\\CS330-PROJ1\\Fall2024-Assignment1-dhbrearley\\Fall2024-Assignment1-dhbrearley\\Fall2024-Assignment1-dhbrearley\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Fall2024-Assignment1-dhbrearley\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T14:09:35.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
